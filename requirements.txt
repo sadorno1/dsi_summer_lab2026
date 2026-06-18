@@ -1,0 +1,14 @@
+brainiak
+nibabel
+nilearn
+nltools
+hypertools
+statesegmentation
+networkx
+nltk
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+seaborn
