@@ -1,0 +1,8 @@
+[fetch_atlas_schaefer_2018] Dataset found in /home/t-9sador/nilearn_data/schaefer_2018
+[fetch_surf_fsaverage] Dataset found in /home/t-9sador/nilearn_data/fsaverage
+[INFO] Loading GSBS results...
+[INFO] Students color scale: vmin=30.0, vmax=40.0
+[SAVED] /project/ycleong/users/dsiSummerLab26/CS_Learning/pipeline_results_recap/Figures/gsbs_event_brainmap_ses-wk6_recap_students_10_90.png
+[INFO] Experts color scale: vmin=28.0, vmax=44.0
+[SAVED] /project/ycleong/users/dsiSummerLab26/CS_Learning/pipeline_results_recap/Figures/gsbs_event_brainmap_ses-wk6_recap_experts_10_90.png
+[DONE]

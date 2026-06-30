@@ -1,0 +1,2 @@
+/project/ycleong/users/dsiSummerLab26/t-9sador/plot_brain.py:73: DeprecationWarning: The `darkness` parameter will be deprecated in release 0.13. We recommend setting `darkness` to None
+  plotting.plot_surf_roi(
